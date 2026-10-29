@@ -52,10 +52,10 @@ Build an AI-powered education platform that makes learning simple, visual, and p
 
 ## 👥 Team
 
-- CEO & Product Lead
-- Frontend Developer
-- Backend Developer
-- Research & QA
+- CEO & Product Lead -  HARSHIT PATHAK
+- Frontend Developer - RITIK KUMAR
+- Backend Developer - ASHISH KUMAR
+- Research & QA - RISHABH RAJ
 
 ---
 
